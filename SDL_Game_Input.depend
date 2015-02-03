@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1422919481 source:d:\users\jacob\my documents\code blocks projects\sdl_game_input\global.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<iostream>
+	"global.h"
+
+1422919481 d:\users\jacob\my documents\code blocks projects\sdl_game_input\global.h
+
+1422915327 source:d:\users\jacob\my documents\code blocks projects\sdl_game_input\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"global.h"
+	"Text.h"
+
+1421718580 d:\users\jacob\my documents\code blocks projects\sdl_game_input\text.h
+
+1422911471 source:d:\users\jacob\my documents\code blocks projects\sdl_game_input\text.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	"Text.h"
+
